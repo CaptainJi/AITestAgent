@@ -4,7 +4,7 @@ langchain-openai
 langchain-experimental
 langserve[all]
 langchain-cli
-lanchainhub
+langchainhub
 langgraph
 pytest
 selenium

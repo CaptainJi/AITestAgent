@@ -4,7 +4,6 @@ from langchain.utilities import SQLDatabase
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 
-from server.utils import get_ChatOpenAI
 
 set_debug(True)
 set_verbose(True)
